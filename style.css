@@ -507,7 +507,15 @@ padding: 5px;
     height: 300px;
 }
 
-
+.banner-content{
+   display: none;
+}
+.banner-desc1{
+    display: none;
+}
+.banner-desc2{
+    display: none;
+}
 
 .card-container{
     flex-direction:column;
